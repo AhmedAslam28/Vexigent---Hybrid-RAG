@@ -1,0 +1,43 @@
+# Web frameworks
+fastapi
+uvicorn[standard]
+flask
+python-multipart
+# LLM provider SDKs
+openai
+anthropic
+google-generativeai
+# LangChain core + integrations
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-pinecone
+langchain-huggingface
+# Vector database
+pinecone
+pinecone-client
+# Embeddings + ML
+sentence-transformers
+torch
+transformers
+# Audio processing
+openai-whisper
+pydub
+librosa
+numpy
+# Image / video processing
+Pillow
+opencv-python
+# Document loaders
+pypdf
+boto3
+# Twilio (voice server)
+twilio
+# Utilities
+python-dotenv
+requests
+pydantic
+urllib3
