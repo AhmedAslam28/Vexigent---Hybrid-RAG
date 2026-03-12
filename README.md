@@ -23,7 +23,7 @@
 </p>
 
 **Multimodal AI document-query platform with voice call support.**  
-Upload PDFs, images, audio, and video → query them with GPT-4o, Claude, or Gemini → get answers via chat or a live AI phone call.
+Upload PDFs, images, audio, and video → query them with GPT-4o, Claude, or Gemini → get answers via chat with a live AI phone call support.
 
 Built by **Ahmed Aslam**
 
