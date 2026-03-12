@@ -1,5 +1,3 @@
-## 🛠️ Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi" alt="FastAPI">
