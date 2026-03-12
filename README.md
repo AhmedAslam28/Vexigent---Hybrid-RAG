@@ -1,5 +1,20 @@
+## 🛠️ Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flask-Frontend-black?style=flat-square&logo=flask" alt="Flask">
+  <img src="https://img.shields.io/badge/Pinecone-Vector%20Store-6c47ff?style=flat-square" alt="Pinecone">
+  <img src="https://img.shields.io/badge/OpenAI-Whisper%20%7C%20GPT--4o-74aa9c?style=flat-square&logo=openai" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Twilio-Voice-F22F46?style=flat-square&logo=twilio" alt="Twilio">
+  <img src="https://img.shields.io/badge/LangChain-Agents-1C3C3C?style=flat-square&logo=langchain" alt="LangChain">
+  <img src="https://img.shields.io/badge/HuggingFace-Embeddings-FFD21E?style=flat-square&logo=huggingface" alt="HuggingFace">
+</p>
+
+
 <p align="center">
   <!-- Core Technologies -->
+  
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python" alt="Python">
   </a>
@@ -30,12 +45,12 @@
     <img src="https://img.shields.io/badge/iClone-Animation%20Tool-5c5c5c" alt="iClone">
   </a>
   <br>
-  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+ 
   <!-- Deployment -->
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-Supported-blue?logo=docker" alt="Docker">
   </a>
-  ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+  
 </p>
 
 
