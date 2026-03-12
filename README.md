@@ -14,7 +14,12 @@
 
 
 # Vexigent Platform
+![Status](https://img.shields.io/badge/Status-Continuously%20Updated-00e5ff?style=for-the-badge)
+![Build](https://img.shields.io/badge/Build-In%20Progress-f59e0b?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-10b981?style=for-the-badge)
 
+> ⚠️ **This project is under active development.** Features are continuously being added and improved. 
+> Not all modules are production-ready. Check back regularly for updates.
 <p align="center">
   <img src="assets/NEWFLOGO1.png" alt="Indian Sign Language Overview" width="400">
 </p>
