@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/badge/Flask-Frontend-black?style=flat-square&logo=flask" alt="Flask">
   <img src="https://img.shields.io/badge/Pinecone-Vector%20Store-6c47ff?style=flat-square" alt="Pinecone">
   <img src="https://img.shields.io/badge/OpenAI-Whisper%20%7C%20GPT--4o-74aa9c?style=flat-square&logo=openai" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Gemini-Google-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white" alt="Gemini">
   <img src="https://img.shields.io/badge/Twilio-Voice-F22F46?style=flat-square&logo=twilio" alt="Twilio">
   <img src="https://img.shields.io/badge/LangChain-Agents-1C3C3C?style=flat-square&logo=langchain" alt="LangChain">
   <img src="https://img.shields.io/badge/HuggingFace-Embeddings-FFD21E?style=flat-square&logo=huggingface" alt="HuggingFace">
