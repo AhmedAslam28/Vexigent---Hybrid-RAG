@@ -46,9 +46,6 @@ project/
 ├── frontend/
 │   └── app.py            Flask web UI (chat, upload, model selector, call widget)
 │
-├── data/
-│   └── uploads/          Temporary file storage (auto-created)
-│
 ├── .env                  Environment variables (fill this in — never commit)
 ├── requirements.txt      Python dependencies
 └── README.md
