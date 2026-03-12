@@ -252,7 +252,7 @@ The agent automatically routes queries to the right index:
 1. Click the **Support** button (bottom-right of the UI)
 2. Enter your phone number
 3. Click **Call Me** — Twilio will call you within seconds
-4. Speak naturally — the AI answers from your indexed documents
+4. Speak naturally — the AI answers all the  questions that you might have regarding the Vexigent AI platform
 5. Say "connect me to a human" to trigger escalation (if configured)
 
 ---
