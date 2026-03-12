@@ -306,7 +306,3 @@ Increase the timeout in the `requests.post` call in `frontend/app.py`, or check 
 - **Agent vs hybrid** — the `/query/` endpoint uses a direct Prompt+RAG pipeline (fast, predictable); `/query-agent/` runs a full LangChain ReAct loop that can call multiple tools and reason across steps (slower, more thorough).
 
 ---
-
-## License
-
-MIT — see `LICENSE` for details.
