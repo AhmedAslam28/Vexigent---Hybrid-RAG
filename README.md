@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/iClone-Animation%20Tool-5c5c5c" alt="iClone">
   </a>
   <br>
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
   <!-- Deployment -->
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-Supported-blue?logo=docker" alt="Docker">
