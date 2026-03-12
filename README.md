@@ -40,7 +40,7 @@
 # Vexigent Platform
 
 <p align="center">
-  <img src="assets/ISL-Title.png" alt="Indian Sign Language Overview" width="800">
+  <img src="assets/NEWFLOGO1.png" alt="Indian Sign Language Overview" width="800">
 </p>
 
 **Multimodal AI document-query platform with voice call support.**  
