@@ -19,7 +19,7 @@
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-10b981?style=for-the-badge)
 
 > ⚠️ **This project is under active development.** Features are continuously being added and improved. 
-> Not all modules are production-ready. Check back regularly for updates.
+> Check back regularly for updates.
 <p align="center">
   <img src="assets/NEWFLOGO1.png" alt="Indian Sign Language Overview" width="400">
 </p>
