@@ -328,7 +328,6 @@ Increase the timeout in the `requests.post` call in `frontend/app.py`, or check 
 
 ### In Progress
 
-- [ ] **Cross-modal query fusion** — query all 4 Pinecone indexes simultaneously and merge ranked results instead of one index at a time
 - [ ] **Domain-based live data comparative response** — for Finance, Legal, and Medical domains, pull live external data and compare against uploaded documents in a single unified answer
 - [ ] **Natural-sounding conversational voice** — replace SSML prosody with ElevenLabs neural voices for human-quality phone call audio, with dynamic tone shifting based on query sentiment
 - [ ] **SMS fallback on call silence** — when a Twilio caller drops after 2 unanswered prompts, automatically send an SMS recap with a follow-up link via Twilio Messaging API
