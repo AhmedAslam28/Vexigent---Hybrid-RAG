@@ -29,9 +29,11 @@ Upload PDFs, images, audio, and video → query them with GPT-4o, Claude, or Gem
 
 Built by **Ahmed Aslam**
 
-## Demo Video
+## 🎥 Demo Video
 
-[![Watch the Demo]](https://youtu.be/DAT-wOV_aK4)
+> See Vexigent in action – multimodal AI agents processing text, images, audio and video.
+
+[![Watch Demo](https://img.youtube.com/vi/DAT-wOV_aK4/0.jpg)](https://youtu.be/DAT-wOV_aK4)
 ---
 
 ## Project Structure
