@@ -29,7 +29,9 @@ Upload PDFs, images, audio, and video → query them with GPT-4o, Claude, or Gem
 
 Built by **Ahmed Aslam**
 
-![Watch the video](Results/Untitledvideo-MadewithClipchamp1-ezgif.com-video-to-gif-converter.gif)
+## Demo Video
+
+[![Watch the Demo]](https://youtu.be/DAT-wOV_aK4)
 ---
 
 ## Project Structure
