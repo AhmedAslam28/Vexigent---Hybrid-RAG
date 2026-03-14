@@ -29,10 +29,6 @@ Upload PDFs, images, audio, and video → query them with GPT-4o, Claude, or Gem
 
 Built by **Ahmed Aslam**
 
-## Demo
-
-## Demo Video
-[▶ Watch Demo](https://github.com/AhmedAslam28/Vexigent---Hybrid-RAG/releases/download/demo-video/20260312_16_21_04_157.mp4)
 ---
 
 ## Project Structure
