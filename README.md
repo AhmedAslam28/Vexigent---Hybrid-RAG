@@ -28,7 +28,7 @@
 Upload PDFs, images, audio, and video → query them with GPT-4o, Claude, or Gemini → get answers via chat with a live AI phone call support.
 
 Built by **Ahmed Aslam**
-
+<img align="right" width="320" height="240" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 ---
 
 ## Project Structure
