@@ -33,7 +33,7 @@ Built by **Ahmed Aslam**
 
 > See Vexigent in action – multimodal AI agents processing text, images, audio and video.
 
-[![Watch Demo](https://img.youtube.com/vi/DAT-wOV_aK4/0.jpg)](https://youtu.be/DAT-wOV_aK4)
+[![Watch Demo](assets/Vexigent_1logoloop.gif)](https://youtu.be/DAT-wOV_aK4)
 ---
 
 ## Project Structure
