@@ -31,7 +31,7 @@ Built by **Ahmed Aslam**
 
 ▶️ **Watch Full Demo Vexigent v1**
 
-<a href="https://youtu.be/DAT-wOV_aK4">
+<a href="https://youtu.be/GUrISrwrRaA">
   <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
