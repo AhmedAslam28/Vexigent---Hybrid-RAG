@@ -33,7 +33,11 @@ Built by **Ahmed Aslam**
 
 ![Preview](assets/Vexigent_1logoloop.gif)
 
-▶️ **Watch Full Demo:** https://youtu.be/DAT-wOV_aK4
+▶️ **Watch Full Demo**
+
+<a href="https://youtu.be/DAT-wOV_aK4">
+  <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 ---
 
 ## Project Structure
