@@ -29,7 +29,7 @@ Upload PDFs, images, audio, and video → query them with GPT-4o, Claude, or Gem
 
 Built by **Ahmed Aslam**
 
-▶️ **Watch Full Demo**
+▶️ **Watch Full Demo Vexigent v1**
 
 <a href="https://youtu.be/DAT-wOV_aK4">
   <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
